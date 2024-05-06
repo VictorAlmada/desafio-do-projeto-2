@@ -31,7 +31,7 @@ public class Contador {
 			//se o segundo for maior que o primeiro ele imprime todos nºs 
 			// entre o primeiro e o segundo
 			int contagem = par2 - par1;
-			for (int i = 0; i <=contagem; i++) {
+			for (int i = 0; i <= contagem; i++) {
 				System.out.println("Imprimindo nº " + (par1+i));
 			}
 		}
